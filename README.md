@@ -20,7 +20,7 @@
     Template for the projects developed in the Node.JS course of the LearnThis Academy elearning platform.
     <br />
     <br />
-    <a style='font-size:16px' href="https://learnthisacademy.com" target='_blank'><strong>Explore LearnThis</strong></a>
+    <a style='font-size:16px' href="https://agustindominguez.ar" target='_blank'><strong>Explore LearnThis</strong></a>
     <br />
     <br />
   </p>
